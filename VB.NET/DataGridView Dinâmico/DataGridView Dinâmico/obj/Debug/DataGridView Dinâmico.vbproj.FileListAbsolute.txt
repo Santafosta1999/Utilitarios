@@ -1,0 +1,12 @@
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\bin\Debug\DataGridView Dinâmico.exe.config
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\bin\Debug\DataGridView Dinâmico.exe
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\bin\Debug\DataGridView Dinâmico.pdb
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\bin\Debug\DataGridView Dinâmico.xml
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView Dinâmico.vbprojAssemblyReference.cache
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView_Dinâmico.FrmDgvDinamico.resources
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView_Dinâmico.Resources.resources
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView Dinâmico.vbproj.GenerateResource.cache
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView Dinâmico.vbproj.CoreCompileInputs.cache
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView Dinâmico.exe
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView Dinâmico.xml
+C:\Cocam\Luiz\DataGridView Dinâmico\DataGridView Dinâmico\DataGridView Dinâmico\obj\Debug\DataGridView Dinâmico.pdb
